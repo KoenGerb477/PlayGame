@@ -47,7 +47,7 @@ namespace FirstGame
             light3Label.Visible = false;
 
             goLabel.Visible = true; 
-            this.BackColor = Color.Lime;
+            this.BackColor = Color.Blue;
             player1.Play();
 
             while (true)
